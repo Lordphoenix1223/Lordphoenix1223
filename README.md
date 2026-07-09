@@ -1,4 +1,4 @@
-# 16-year-old builder focused on mechanical prototyping and small engineering tools.
+# Builder focused on mechanical prototyping and small engineering tools.
 
 I spend most of my time turning rough design ideas and raw inputs into inspectable, testable artifacts: OpenSCAD mechanism studies, fit-coupon kits, STL inspection utilities, local transcription pipelines, and reviewable render packages.
 
@@ -31,4 +31,3 @@ I spend most of my time turning rough design ideas and raw inputs into inspectab
 - [`stl-inspector-cli`](https://github.com/Lordphoenix1223/stl-inspector-cli): Python CLI for inspecting STL bounds, triangle counts, and geometry metadata
 - [`openscad-fit-coupon-kit`](https://github.com/Lordphoenix1223/openscad-fit-coupon-kit): reusable OpenSCAD fit-coupon files for hardware, slots, and clearance testing
 - [`transcription-organizer-pipeline`](https://github.com/Lordphoenix1223/transcription-organizer-pipeline): local recording-to-transcript pipeline with deterministic analysis, Q/A parsing, and optional Notion publishing
-
