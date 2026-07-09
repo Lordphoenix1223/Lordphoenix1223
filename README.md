@@ -1,4 +1,4 @@
-# Builder focused on mechanical prototyping and small engineering tools.
+# AI-native builder working across company intelligence, developer tooling, and mechanical prototyping.
 
 I spend most of my time turning rough design ideas and raw inputs into inspectable, testable artifacts: OpenSCAD mechanism studies, fit-coupon kits, STL inspection utilities, local transcription pipelines, and reviewable render packages.
 
@@ -23,7 +23,7 @@ I spend most of my time turning rough design ideas and raw inputs into inspectab
 - OpenAI Codex for implementation, refactors, review passes, and repo cleanup
 - Prompt-driven CAD iteration support alongside OpenSCAD, slicer checks, and manual geometry validation
 - N8N Workflows for optimizing workflows, and Obsidian for quick fixes
-- Willow, Cursor, Google AI Studio, and many more (always looking for UI tools)
+- Codex, Cursor, n8n, Google AI Studio, OpenSCAD, Vercel, Azure, Notion APIs, and local-first automation workflows.
 
 ## Projects
 
