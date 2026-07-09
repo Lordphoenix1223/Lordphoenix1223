@@ -32,9 +32,3 @@ I spend most of my time turning rough design ideas and raw inputs into inspectab
 - [`openscad-fit-coupon-kit`](https://github.com/Lordphoenix1223/openscad-fit-coupon-kit): reusable OpenSCAD fit-coupon files for hardware, slots, and clearance testing
 - [`transcription-organizer-pipeline`](https://github.com/Lordphoenix1223/transcription-organizer-pipeline): local recording-to-transcript pipeline with deterministic analysis, Q/A parsing, and optional Notion publishing
 
-## What I Want To Learn At DevDay
-
-- Better patterns for model + tool orchestration in real products
-- Stronger evaluation methods for agentic systems and structured outputs
-- Better ways to connect models to engineering workflows without making the stack fake-complicated
-- Practical ideas for using AI to speed up prototyping without pretending it replaces validation
