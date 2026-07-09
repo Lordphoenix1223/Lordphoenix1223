@@ -22,8 +22,8 @@ I spend most of my time turning rough design ideas and raw inputs into inspectab
 
 - OpenAI Codex for implementation, refactors, review passes, and repo cleanup
 - Prompt-driven CAD iteration support alongside OpenSCAD, slicer checks, and manual geometry validation
-- Structured review workflows for turning vague design concerns into explicit failure checks
-- Lightweight local tooling instead of pretending every problem needs a backend
+- N8N Workflows for optimizing workflows, and Obsidian for quick fixes
+- Willow, Cursor, Google AI Studio, and many more (always looking for UI tools)
 
 ## Projects
 
