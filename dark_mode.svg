@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="1100" height="560" viewBox="0 0 1100 560">
+  <title id="title">Artin Kennedy terminal profile</title>
+  <desc id="desc">A code-rendered Greninja silhouette beside Artin Kennedy's focus, method, current work, and featured repositories.</desc>
+  <style>
+    text { font-family: Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }
+    .panel { fill: #161b22; }
+    .base { fill: #c9d1d9; }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #6e7681; }
+    .blue { fill: #79c0ff; }
+    .pink { fill: #ff9bce; }
+    .yellow { fill: #f0d56e; }
+    .line { stroke: #30363d; stroke-width: 1; }
+    .art { font-size: 15px; letter-spacing: 1px; }
+  </style>
+  <rect class="panel" width="1100" height="560" rx="16"/>
+  <rect x="20" y="20" width="1060" height="520" rx="12" fill="none" class="line"/>
+
+  <!-- compact Greninja-style character art: literal SVG text, not a bitmap -->
+  <text x="42" y="52" class="art base">
+    <tspan x="42" dy="0" class="muted">                         . 0 1 .</tspan>
+    <tspan x="42" dy="18" class="muted">                       . 0 0 1 1 .</tspan>
+    <tspan x="42" dy="18" class="yellow">                    . 0 0 0 0 1 1 1</tspan>
+    <tspan x="42" dy="18" class="yellow">                  0 0 0 0 0 0 1 1 1</tspan>
+    <tspan x="42" dy="18" class="base">             . . 0 0 0 0 0 0 0 0 0 1</tspan>
+    <tspan x="42" dy="18" class="base">           . 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">          0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">       0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="pink">      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="pink">        0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">          0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">            0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">              1 1 1 1 1 1</tspan>
+    <tspan x="42" dy="18" class="blue">              0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">            0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">          0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">        0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">      0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">    0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">     0 0 0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">       0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">         0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">           0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="blue">             0 0 0</tspan>
+    <tspan x="42" dy="18" class="base">               0 0</tspan>
+    <tspan x="42" dy="18" class="base">                0</tspan>
+    <tspan x="42" dy="18" class="pink">             0 0 0 0 0 0 0 0 0</tspan>
+    <tspan x="42" dy="18" class="pink">           0 0 0 0 0 0 0 0 0 0</tspan>
+</text>
+
+  <text x="535" y="55" class="base">
+    <tspan x="535" y="55">artin@github</tspan><tspan class="muted">  ————————————————————————————————</tspan>
+    <tspan x="535" y="83" class="key">Focus</tspan><tspan class="muted">: ................. </tspan><tspan class="value">software, research, physical systems</tspan>
+    <tspan x="535" y="111" class="key">Method</tspan><tspan class="muted">: ................ </tspan><tspan class="value">prototypes, tests, documentation</tspan>
+    <tspan x="535" y="139" class="key">Current work</tspan><tspan class="muted">: ..... </tspan><tspan class="value">transcription, CAD, STL tooling</tspan>
+    <tspan x="535" y="167" class="key">Mode</tspan><tspan class="muted">: .................. </tspan><tspan class="value">local-first / inspectable</tspan>
+    <tspan x="535" y="195" class="key">Status</tspan><tspan class="muted">: ................ </tspan><tspan class="value">building in public</tspan>
+    <tspan x="535" y="223" class="muted">——————————————————————————————————————————————</tspan>
+    <tspan x="535" y="263">I build tools for turning messy ideas into working artifacts.</tspan>
+    <tspan x="535" y="315">- Featured projects -</tspan>
+    <tspan x="535" y="347" class="muted">01 </tspan><tspan class="key">transcription-organizer-pipeline</tspan>
+    <tspan x="535" y="371" class="value">   recordings -&gt; structured research</tspan>
+    <tspan x="535" y="407" class="muted">02 </tspan><tspan class="key">openscad-mechanical-prototyping</tspan>
+    <tspan x="535" y="431" class="value">   CAD -&gt; fit testing -&gt; physical iteration</tspan>
+    <tspan x="535" y="467" class="muted">03 </tspan><tspan class="key">stl-inspector-cli</tspan>
+    <tspan x="535" y="491" class="value">   mesh -&gt; geometry report -&gt; faster decisions</tspan>
+  </text>
+</svg>
