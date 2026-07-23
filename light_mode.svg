@@ -1,66 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="1100" height="560" viewBox="0 0 1100 560">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="985" height="530" viewBox="0 0 985 530">
   <title id="title">Artin Kennedy terminal profile</title>
-  <desc id="desc">A code-rendered Greninja silhouette beside Artin Kennedy's focus, method, current work, and featured repositories.</desc>
-  <style>
-    text { font-family: Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }
-    .panel { fill: #f6f8fa; }
-    .base { fill: #24292f; }
-    .key { fill: #bc4c00; }
-    .value { fill: #0969da; }
-    .muted { fill: #57606a; }
-    .blue { fill: #0969da; }
-    .pink { fill: #bf3989; }
-    .yellow { fill: #9a6700; }
-    .line { stroke: #d0d7de; stroke-width: 1; }
-    .art { font-size: 15px; letter-spacing: 1px; }
-  </style>
-  <rect class="panel" width="1100" height="560" rx="16"/>
-  <rect x="20" y="20" width="1060" height="520" rx="12" fill="none" class="line"/>
-  <text x="42" y="52" class="art base">
-    <tspan x="42" dy="0" class="muted">                         . 0 1 .</tspan>
-    <tspan x="42" dy="18" class="muted">                       . 0 0 1 1 .</tspan>
-    <tspan x="42" dy="18" class="yellow">                    . 0 0 0 0 1 1 1</tspan>
-    <tspan x="42" dy="18" class="yellow">                  0 0 0 0 0 0 1 1 1</tspan>
-    <tspan x="42" dy="18" class="base">             . . 0 0 0 0 0 0 0 0 0 1</tspan>
-    <tspan x="42" dy="18" class="base">           . 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">          0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">       0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="pink">      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="pink">        0 0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">          0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">            0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">              1 1 1 1 1 1</tspan>
-    <tspan x="42" dy="18" class="blue">              0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">            0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">          0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">        0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">      0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">    0 0 0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">     0 0 0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">       0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">         0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">           0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="blue">             0 0 0</tspan>
-    <tspan x="42" dy="18" class="base">               0 0</tspan>
-    <tspan x="42" dy="18" class="base">                0</tspan>
-    <tspan x="42" dy="18" class="pink">             0 0 0 0 0 0 0 0 0</tspan>
-    <tspan x="42" dy="18" class="pink">           0 0 0 0 0 0 0 0 0 0</tspan>
-  </text>
-  <text x="535" y="55" class="base">
-    <tspan x="535" y="55">artin@github</tspan><tspan class="muted">  ————————————————————————————————</tspan>
-    <tspan x="535" y="83" class="key">Focus</tspan><tspan class="muted">: ................. </tspan><tspan class="value">software, research, physical systems</tspan>
-    <tspan x="535" y="111" class="key">Method</tspan><tspan class="muted">: ................ </tspan><tspan class="value">prototypes, tests, documentation</tspan>
-    <tspan x="535" y="139" class="key">Current work</tspan><tspan class="muted">: ..... </tspan><tspan class="value">transcription, CAD, STL tooling</tspan>
-    <tspan x="535" y="167" class="key">Mode</tspan><tspan class="muted">: .................. </tspan><tspan class="value">local-first / inspectable</tspan>
-    <tspan x="535" y="195" class="key">Status</tspan><tspan class="muted">: ................ </tspan><tspan class="value">building in public</tspan>
-    <tspan x="535" y="223" class="muted">——————————————————————————————————————————————</tspan>
-    <tspan x="535" y="263">I build tools for turning messy ideas into working artifacts.</tspan>
-    <tspan x="535" y="315">- Featured projects -</tspan>
-    <tspan x="535" y="347" class="muted">01 </tspan><tspan class="key">transcription-organizer-pipeline</tspan>
-    <tspan x="535" y="371" class="value">   recordings -&gt; structured research</tspan>
-    <tspan x="535" y="407" class="muted">02 </tspan><tspan class="key">openscad-mechanical-prototyping</tspan>
-    <tspan x="535" y="431" class="value">   CAD -&gt; fit testing -&gt; physical iteration</tspan>
-    <tspan x="535" y="467" class="muted">03 </tspan><tspan class="key">stl-inspector-cli</tspan>
-    <tspan x="535" y="491" class="value">   mesh -&gt; geometry report -&gt; faster decisions</tspan>
-  </text>
+  <desc id="desc">Detailed character-art Greninja rendered from colored terminal glyphs beside Artin Kennedy's concise technical profile and real project links.</desc>
+  <style>text { font-family: Consolas, Monaco, monospace; font-size: 13px; white-space: pre; } .art { font-size: 9px; letter-spacing: 1px; } .base { fill: #24292f; } .muted { fill: #57606a; } .key { fill: #bc4c00; } .value { fill: #0969da; } .blue { fill: #0969da; } .pink { fill: #bf3989; } .yellow { fill: #9a6700; }</style>
+  <rect width="985" height="530" rx="16" fill="#ffffff"/>
+  <rect x="18" y="18" width="949" height="494" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="34" y="44" class="art" xml:space="preserve">
+<tspan x="34" y="44.0"><tspan class="base">                                 ,::                            </tspan></tspan>
+<tspan x="34" y="54.7"><tspan class="base">                              ,:;i:                             </tspan></tspan>
+<tspan x="34" y="65.4"><tspan class="base">                       :    :</tspan><tspan class="yellow">irX</tspan><tspan class="base">i,                              </tspan></tspan>
+<tspan x="34" y="76.1"><tspan class="base">                i   :;i:</tspan><tspan class="yellow">:</tspan><tspan class="base">;</tspan><tspan class="yellow">isrAr</tspan><tspan class="base">                                 </tspan></tspan>
+<tspan x="34" y="86.8"><tspan class="base">               ;;;ii;,</tspan><tspan class="yellow">;irrXsr:</tspan><tspan class="base">      .:                          </tspan></tspan>
+<tspan x="34" y="97.5"><tspan class="base">           :;siii:,,s</tspan><tspan class="yellow">XAXsrX;</tspan><tspan class="base">   ::;ii;                           </tspan></tspan>
+<tspan x="34" y="108.2"><tspan class="base">          irr:,,,,,,s</tspan><tspan class="yellow">XXss;</tspan><tspan class="base">,::ii;</tspan><tspan class="blue">;</tspan><tspan class="base">i:,   ::</tspan><tspan class="pink">::;:</tspan><tspan class="base">::                 </tspan></tspan>
+<tspan x="34" y="118.9"><tspan class="base">           </tspan><tspan class="yellow">X</tspan><tspan class="base">i,:,:,,,</tspan><tspan class="yellow">2A2i</tspan><tspan class="blue">.,</tspan><tspan class="base">i;ii;i;:</tspan><tspan class="pink">iirXrXrXssssXArr;</tspan><tspan class="base">             </tspan></tspan>
+<tspan x="34" y="129.6"><tspan class="base">           r:,:</tspan><tspan class="blue">r</tspan><tspan class="base">i:,i</tspan><tspan class="yellow">XXr,</tspan><tspan class="blue">::,,</tspan><tspan class="base">,::;</tspan><tspan class="pink">ii:</tspan><tspan class="base">::      .</tspan><tspan class="pink">,</tspan><tspan class="base">;</tspan><tspan class="pink">rrissr;</tspan><tspan class="base">           </tspan></tspan>
+<tspan x="34" y="140.3"><tspan class="base">          ;r::;;i</tspan><tspan class="pink">sAs</tspan><tspan class="yellow">Xsr</tspan><tspan class="pink">;ii</tspan><tspan class="base">sr</tspan><tspan class="pink">rXri;</tspan><tspan class="base">:            .</tspan><tspan class="pink">rsXsrrs</tspan><tspan class="base">          </tspan></tspan>
+<tspan x="34" y="151.0"><tspan class="base">         iXi:iirXii</tspan><tspan class="pink">;ir</tspan><tspan class="base">X</tspan><tspan class="pink">ssrXr</tspan><tspan class="base">r</tspan><tspan class="pink">Xrsr</tspan><tspan class="base">r:            </tspan><tspan class="pink">;sXsirXr</tspan><tspan class="base">         </tspan></tspan>
+<tspan x="34" y="161.7"><tspan class="base">         ;</tspan><tspan class="pink">X</tspan><tspan class="base">r</tspan><tspan class="pink">r</tspan><tspan class="base">;iisr</tspan><tspan class="pink">XsXXXssir</tspan><tspan class="base">i</tspan><tspan class="pink">isrrr</tspan><tspan class="base">s</tspan><tspan class="pink">:</tspan><tspan class="base">           </tspan><tspan class="pink">:ssXsrssX</tspan><tspan class="base">         </tspan></tspan>
+<tspan x="34" y="172.4"><tspan class="base">           </tspan><tspan class="pink">;rAsrss</tspan><tspan class="base">X</tspan><tspan class="pink">ssri</tspan><tspan class="base">:</tspan><tspan class="blue">i;i;</tspan><tspan class="base">,,,</tspan><tspan class="pink">r</tspan><tspan class="base">i:         :</tspan><tspan class="pink">:isXsXsrrX;</tspan><tspan class="base">         </tspan></tspan>
+<tspan x="34" y="183.1"><tspan class="base">             ;</tspan><tspan class="pink">;;:</tspan><tspan class="base">;;;i;</tspan><tspan class="blue">rir;i:</tspan><tspan class="base">,,ir</tspan><tspan class="pink">.</tspan><tspan class="base">       :</tspan><tspan class="pink">;irrrX</tspan><tspan class="base">s</tspan><tspan class="pink">rXrirr</tspan><tspan class="base">          </tspan></tspan>
+<tspan x="34" y="193.8"><tspan class="base">         </tspan><tspan class="blue">ii</tspan><tspan class="base"> :rrrXrsri</tspan><tspan class="blue">:</tspan><tspan class="base">:</tspan><tspan class="blue">:i;</tspan><tspan class="base">:.,ir:     ;</tspan><tspan class="pink">issXsrsrssrXsri</tspan><tspan class="base">           </tspan></tspan>
+<tspan x="34" y="204.5"><tspan class="base">        ,</tspan><tspan class="blue">i</tspan><tspan class="base">,irX</tspan><tspan class="blue">rii</tspan><tspan class="base">;::</tspan><tspan class="blue">iir;:</tspan><tspan class="base">:,;r;   :;</tspan><tspan class="pink">isXrAsssrsrXXsXs,</tspan><tspan class="base">            </tspan></tspan>
+<tspan x="34" y="215.2"><tspan class="base">    ,:;;i;</tspan><tspan class="blue">r;</tspan><tspan class="base">;:,,;:</tspan><tspan class="blue">::</tspan><tspan class="base">:::,,,;i   ,;</tspan><tspan class="pink">rsirsisrrrrrisri:</tspan><tspan class="base">              </tspan></tspan>
+<tspan x="34" y="225.9"><tspan class="base">   ;r</tspan><tspan class="blue">rsrr;;</tspan><tspan class="base">: </tspan><tspan class="yellow">Xrrsrss</tspan><tspan class="blue">:::;;</tspan><tspan class="base">ii   i;</tspan><tspan class="pink">rsXssssXsssrrri:</tspan><tspan class="base">                </tspan></tspan>
+<tspan x="34" y="236.6"><tspan class="base">   ;</tspan><tspan class="blue">ri:,</tspan><tspan class="base">,  </tspan><tspan class="blue">X</tspan><tspan class="base"> </tspan><tspan class="yellow">;ssXr;</tspan><tspan class="blue">.;i;</tspan><tspan class="base">,r; :;r;.</tspan><tspan class="pink">rsrissisiriri</tspan><tspan class="base">;                  </tspan></tspan>
+<tspan x="34" y="247.3"><tspan class="base">          ;</tspan><tspan class="blue">i:</tspan><tspan class="base"> ii</tspan><tspan class="yellow">X</tspan><tspan class="base">;</tspan><tspan class="blue">::ri:</tspan><tspan class="base">i;;;:</tspan><tspan class="blue">i</tspan><tspan class="base">r,,:</tspan><tspan class="pink">isr</tspan><tspan class="base">s</tspan><tspan class="pink">XrAri::</tspan><tspan class="base">i;                  </tspan></tspan>
+<tspan x="34" y="258.0"><tspan class="base">              ;</tspan><tspan class="blue">r;;;ss;</tspan><tspan class="base">,i,:,;r r:,,,,</tspan><tspan class="pink">;;;;</tspan><tspan class="base">,::;:                   </tspan></tspan>
+<tspan x="34" y="268.7"><tspan class="base">              :</tspan><tspan class="blue">i;:rsi:</tspan><tspan class="base">,,;;;:: :;i;;:;;;:;,,                     </tspan></tspan>
+<tspan x="34" y="279.4"><tspan class="base">            :</tspan><tspan class="blue">Asi,rsr</tspan><tspan class="base">,</tspan><tspan class="blue">;i</tspan><tspan class="base">:,:ii:                                   </tspan></tspan>
+<tspan x="34" y="290.1"><tspan class="base">           i</tspan><tspan class="blue">r2i:,;:</tspan><tspan class="base">::</tspan><tspan class="blue">:</tspan><tspan class="base">;,,,;ii;                                  </tspan></tspan>
+<tspan x="34" y="300.8"><tspan class="base">           s</tspan><tspan class="blue">iri;ri;</tspan><tspan class="base">,,</tspan><tspan class="blue">,</tspan><tspan class="base">;,,,,:ir                                  </tspan></tspan>
+<tspan x="34" y="311.5"><tspan class="base">           :s</tspan><tspan class="blue">Xrii;</tspan><tspan class="base">;;;::,,,:,rs                                  </tspan></tspan>
+<tspan x="34" y="322.2"><tspan class="base">            isr</tspan><tspan class="blue">ii;;</tspan><tspan class="base">::,:,,,,ii                                   </tspan></tspan>
+<tspan x="34" y="332.9"><tspan class="base">             :irr</tspan><tspan class="blue">i;</tspan><tspan class="base">:</tspan><tspan class="blue">;</tspan><tspan class="base">:,,,:i:                                    </tspan></tspan>
+<tspan x="34" y="343.6"><tspan class="base">                iii</tspan><tspan class="blue">ii</tspan><tspan class="base">;,,r;                                      </tspan></tspan>
+<tspan x="34" y="354.3"><tspan class="base">                  ,;</tspan><tspan class="blue">i;:</tspan><tspan class="base">.r     i  ::                             </tspan></tspan>
+<tspan x="34" y="365.0"><tspan class="base">                    :;</tspan><tspan class="blue">r</tspan><tspan class="base">.:;   ,r  ;;                             </tspan></tspan>
+<tspan x="34" y="375.7"><tspan class="base">                     :i; ;i  r::;i,                             </tspan></tspan>
+<tspan x="34" y="386.4"><tspan class="base">                       r</tspan><tspan class="blue">i.</tspan><tspan class="base">r;;.,r:                               </tspan></tspan>
+<tspan x="34" y="397.1"><tspan class="base">                        r:,;,.i.                                </tspan></tspan>
+<tspan x="34" y="407.8"><tspan class="base">                        s</tspan><tspan class="blue">i</tspan><tspan class="base">,,:i                                  </tspan></tspan>
+<tspan x="34" y="418.5"><tspan class="base">                       :</tspan><tspan class="blue">r</tspan><tspan class="base">,.:;                                   </tspan></tspan>
+<tspan x="34" y="429.2"><tspan class="base">                    :;r</tspan><tspan class="blue">i</tspan><tspan class="base">:,;i                                    </tspan></tspan>
+<tspan x="34" y="439.9"><tspan class="base">                ;:::i</tspan><tspan class="blue">ii</tspan><tspan class="base">,,:i:                                    </tspan></tspan>
+<tspan x="34" y="450.6"><tspan class="base">           X;;;:;;i</tspan><tspan class="blue">ii,</tspan><tspan class="base">i,:i                                      </tspan></tspan>
+<tspan x="34" y="461.3"><tspan class="base">         .;:;;iir:</tspan><tspan class="blue">,</tspan><tspan class="base">, ;i,r                                       </tspan></tspan>
+<tspan x="34" y="472.0"><tspan class="base">         i</tspan><tspan class="blue">Xri</tspan><tspan class="base">;;,   :iii;;                                       </tspan></tspan>
+<tspan x="34" y="482.7"><tspan class="base">          ,</tspan><tspan class="blue">,</tspan><tspan class="base">,      s</tspan><tspan class="blue">r;;i</tspan><tspan class="base">;                                       </tspan></tspan>
+<tspan x="34" y="493.4"><tspan class="base">                   .;</tspan><tspan class="blue">::</tspan><tspan class="base">                                         </tspan></tspan>
+<tspan x="34" y="504.1"><tspan class="base">                                                                </tspan></tspan>
+</text>
+  <g transform="translate(390,0)">
+<text x="0" y="48" class="muted">artin@github</text>
+<text x="0" y="72" class="muted">--------------------------------------------</text>
+<text x="0" y="105" class="key">Focus:</text><text x="72" y="105" class="muted">........</text><text x="142" y="105" class="value">software / research / physical systems</text>
+<text x="0" y="127" class="key">Method:</text><text x="72" y="127" class="muted">........</text><text x="142" y="127" class="value">prototypes / tests / documentation</text>
+<text x="0" y="149" class="key">Current:</text><text x="72" y="149" class="muted">........</text><text x="142" y="149" class="value">transcription / CAD / STL tooling</text>
+<text x="0" y="171" class="key">Mode:</text><text x="72" y="171" class="muted">........</text><text x="142" y="171" class="value">local-first / inspectable</text>
+<text x="0" y="193" class="key">Status:</text><text x="72" y="193" class="muted">........</text><text x="142" y="193" class="value">building in public</text>
+<text x="0" y="219" class="muted">--------------------------------------------</text>
+<text x="0" y="253" class="base">I build tools for turning messy ideas into working artifacts.</text>
+<text x="0" y="281" class="base"></text>
+<text x="0" y="307" class="key">Featured projects</text>
+<a href="https://github.com/Lordphoenix1223/transcription-organizer-pipeline"><text x="0" y="339" class="value">01  transcription-organizer-pipeline</text></a>
+<text x="0" y="361" class="blue">    recordings -&gt; structured research</text>
+<a href="https://github.com/Lordphoenix1223/openscad-mechanical-prototyping"><text x="0" y="391" class="value">02  openscad-mechanical-prototyping</text></a>
+<text x="0" y="413" class="blue">    CAD -&gt; fit testing -&gt; physical iteration</text>
+<a href="https://github.com/Lordphoenix1223/stl-inspector-cli"><text x="0" y="443" class="value">03  stl-inspector-cli</text></a>
+<text x="0" y="465" class="blue">    mesh -&gt; geometry report -&gt; faster decisions</text>
+  </g>
 </svg>
