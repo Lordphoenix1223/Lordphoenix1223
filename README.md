@@ -1,7 +1,7 @@
-<table>
+<table width="100%">
   <tr>
     <td width="46%" align="center" valign="middle">
-      <img src="./assets/greninja-terminal.png" alt="Compact terminal-style Greninja artwork with blue, pink, and yellow accents" width="420" />
+      <img src="./assets/greninja-terminal.png" alt="Compact terminal-style Greninja artwork with a visible slate border and blue, pink, and yellow accents" width="100%" />
     </td>
     <td valign="top">
       <pre>artin@github
