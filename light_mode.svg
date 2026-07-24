@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="985" height="530" viewBox="0 0 985 530">
   <title id="title">Artin Kennedy terminal profile</title>
   <desc id="desc">Detailed Greninja character art rendered in terminal glyphs beside a concise profile of Artin Kennedy's work.</desc>
-  <style>text { font-family: Consolas, Monaco, monospace; font-size: 14px; white-space: pre; }; .art { font-size: 9px; letter-spacing: .8px; }; .base { fill: #24292f; }; .muted { fill: #57606a; }; .key { fill: #bc4c00; }; .value { fill: #0969da; }; .blue { fill: #0969da; }; .pink { fill: #bf3989; }; .yellow { fill: #9a6700; }</style>
+  <style>text { font-family: Consolas, Monaco, monospace; font-size: 13.5px; white-space: pre; } .art { font-size: 8.5px; letter-spacing: .4px; } .base { fill: #24292f; } .muted { fill: #57606a; } .key { fill: #bc4c00; } .value { fill: #0969da; } .blue { fill: #0969da; } .pink { fill: #bf3989; } .yellow { fill: #9a6700; }</style>
   <rect width="985" height="530" rx="16" fill="#ffffff"/>
   <rect x="18" y="18" width="949" height="494" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="38" y="36" class="art" xml:space="preserve">
+  <defs><clipPath id="art-clip"><rect x="18" y="18" width="388" height="494" rx="12"/></clipPath></defs>
+  <line x1="418" y1="42" x2="418" y2="488" stroke="#d0d7de" stroke-opacity=".8"/>
+  <g clip-path="url(#art-clip)"><text x="28" y="36" class="art" xml:space="preserve">
 <tspan x="38" y="36.0"><tspan class="base">                               :                          </tspan></tspan>
 <tspan x="38" y="46.2"><tspan class="base">                            ·**                           </tspan></tspan>
 <tspan x="38" y="56.4"><tspan class="base">                         .</tspan><tspan class="yellow">:+#</tspan><tspan class="base">*.                           </tspan></tspan>
@@ -53,18 +55,18 @@
 <tspan x="38" y="495.0"><tspan class="base">                 +#</tspan><tspan class="blue">@</tspan><tspan class="base">+</tspan><tspan class="blue">*</tspan><tspan class="base">:                                   </tspan></tspan>
 <tspan x="38" y="505.2"><tspan class="base">                   </tspan><tspan class="blue">.</tspan><tspan class="base">                                      </tspan></tspan>
 <tspan x="38" y="515.4"><tspan class="base">                                                          </tspan></tspan>
-</text>
-  <g transform="translate(390,0)">
+</text></g>
+  <g transform="translate(440,0)">
 <text x="0" y="48" class="muted">artin@github</text>
 <text x="0" y="70" class="muted">--------------------------------------------</text>
-<text x="0" y="103" class="key">Focus:</text><text x="74" y="103" class="muted">........</text><text x="144" y="103" class="value">tools / research / physical systems</text>
-<text x="0" y="125" class="key">Method:</text><text x="74" y="125" class="muted">........</text><text x="144" y="125" class="value">build -&gt; test -&gt; document</text>
-<text x="0" y="147" class="key">Current:</text><text x="74" y="147" class="muted">........</text><text x="144" y="147" class="value">transcription / CAD / mesh tooling</text>
-<text x="0" y="169" class="key">Mode:</text><text x="74" y="169" class="muted">........</text><text x="144" y="169" class="value">curious / practical / local-first</text>
+<text x="0" y="103" class="key">Focus:</text><text x="74" y="103" class="muted">........</text><text x="144" y="103" class="value">software / research / physical prototypes</text>
+<text x="0" y="125" class="key">Approach:</text><text x="100" y="125" class="muted">.......</text><text x="164" y="125" class="value">make it real, then make it better</text>
+<text x="0" y="147" class="key">Now:</text><text x="74" y="147" class="muted">.........</text><text x="144" y="147" class="value">transcription / CAD / mesh tooling</text>
+<text x="0" y="169" class="key">Signal:</text><text x="74" y="169" class="muted">........</text><text x="144" y="169" class="value">useful &gt; impressive</text>
 <text x="0" y="191" class="key">Status:</text><text x="74" y="191" class="muted">........</text><text x="144" y="191" class="value">building in public</text>
 <text x="0" y="217" class="muted">--------------------------------------------</text>
-<text x="0" y="251" class="base">I turn rough ideas into things I can test, use, and improve.</text>
-<text x="0" y="305" class="key">Selected work</text>
+<text x="0" y="251" class="base">I take half-formed ideas and make them real enough to test.</text>
+<text x="0" y="305" class="key">PROJECTS</text>
 <a href="https://github.com/Lordphoenix1223/transcription-organizer-pipeline"><text x="0" y="337" class="value">01  transcription-organizer-pipeline</text></a>
 <text x="0" y="359" class="blue">    recordings -&gt; organized research</text>
 <a href="https://github.com/Lordphoenix1223/openscad-mechanical-prototyping"><text x="0" y="389" class="value">02  openscad-mechanical-prototyping</text></a>
