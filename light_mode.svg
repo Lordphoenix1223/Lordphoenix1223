@@ -57,21 +57,21 @@
 <tspan x="38" y="515.4"><tspan class="base">                                                          </tspan></tspan>
 </text></g>
   <g transform="translate(440,0)">
-<text x="0" y="48" class="muted">artin@github</text>
+<text x="0" y="48" class="muted">WELCOME // ARTIN@GITHUB</text>
 <text x="0" y="70" class="muted">--------------------------------------------</text>
-<text x="0" y="103" class="key">Focus:</text><text x="74" y="103" class="muted">........</text><text x="144" y="103" class="value">software / research / physical prototypes</text>
-<text x="0" y="125" class="key">Approach:</text><text x="100" y="125" class="muted">.......</text><text x="164" y="125" class="value">make it real, then make it better</text>
-<text x="0" y="147" class="key">Now:</text><text x="74" y="147" class="muted">.........</text><text x="144" y="147" class="value">transcription / CAD / mesh tooling</text>
-<text x="0" y="169" class="key">Signal:</text><text x="74" y="169" class="muted">........</text><text x="144" y="169" class="value">useful &gt; impressive</text>
+<text x="0" y="103" class="key">Focus:</text><text x="74" y="103" class="muted">........</text><text x="144" y="103" class="value">tools / research / physical prototypes</text>
+<text x="0" y="125" class="key">Projects:</text><text x="100" y="125" class="muted">.......</text><text x="164" y="125" class="value">software / mechanisms / dev tools</text>
+<text x="0" y="147" class="key">Now:</text><text x="74" y="147" class="muted">.........</text><text x="144" y="147" class="value">transcription / web-shooter / STL</text>
+<text x="0" y="169" class="key">Approach:</text><text x="100" y="169" class="muted">.......</text><text x="164" y="169" class="value">make it real, then make it better</text>
 <text x="0" y="191" class="key">Status:</text><text x="74" y="191" class="muted">........</text><text x="144" y="191" class="value">building in public</text>
 <text x="0" y="217" class="muted">--------------------------------------------</text>
-<text x="0" y="251" class="base">I take half-formed ideas and make them real enough to test.</text>
-<text x="0" y="305" class="key">PROJECTS</text>
-<a href="https://github.com/Lordphoenix1223/transcription-organizer-pipeline"><text x="0" y="337" class="value">01  transcription-organizer-pipeline</text></a>
-<text x="0" y="359" class="blue">    recordings -&gt; organized research</text>
-<a href="https://github.com/Lordphoenix1223/openscad-mechanical-prototyping"><text x="0" y="389" class="value">02  openscad-mechanical-prototyping</text></a>
-<text x="0" y="411" class="blue">    CAD -&gt; fit tests -&gt; real parts</text>
-<a href="https://github.com/Lordphoenix1223/stl-inspector-cli"><text x="0" y="441" class="value">03  stl-inspector-cli</text></a>
-<text x="0" y="463" class="blue">    STL -&gt; geometry checks</text>
+<text x="0" y="251" class="base">I turn strange ideas into things I can actually test.</text>
+<text x="0" y="305" class="key">PROJECTS / REAL ARTIFACTS</text>
+<a href="https://github.com/Lordphoenix1223/transcription-organizer-pipeline"><text x="0" y="337" class="value">01  TRANSCRIPTION PIPELINE</text></a>
+<text x="0" y="359" class="blue">    audio -&gt; structured research -&gt; Notion</text>
+<a href="https://github.com/Lordphoenix1223/openscad-mechanical-prototyping"><text x="0" y="389" class="value">02  SPIDER-MAN WEB SHOOTER</text></a>
+<text x="0" y="411" class="blue">    OpenSCAD -&gt; fit checks -&gt; physical iteration</text>
+<a href="https://github.com/Lordphoenix1223/stl-inspector-cli"><text x="0" y="441" class="value">03  STL INSPECTOR</text></a>
+<text x="0" y="463" class="blue">    mesh -&gt; geometry report -&gt; print decisions</text>
   </g>
 </svg>
