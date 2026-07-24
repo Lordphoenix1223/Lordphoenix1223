@@ -8,11 +8,9 @@
 
 # Artin Kennedy
 
-Founder of [Arkire](https://arkirehq.com).
-
-Most of my work lives between software and the physical world.
-
 I build internal systems, web apps & physical stuff :)
+
+The common thread is turning rough ideas into something usable, testable, and easy to inspect.
 
 ## What I'm building
 
