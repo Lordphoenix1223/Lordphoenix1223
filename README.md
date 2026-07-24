@@ -10,19 +10,19 @@
 
 Founder of [Arkire](https://arkirehq.com).
 
-Building AI workflows, practical software, and strange physical prototypes.
+Building software, internal systems, web apps, and physical prototypes.
 
-I turn strange ideas into things I can actually test.
+I build internal systems, web apps & physical stuff :)
 
 > Make it real. Test it. Then make it better.
 
-## Building now
+## What I'm building
 
-01. [Arkire](https://arkirehq.com) — AI workflows for turning company activity into usable content. [Visit →](https://arkirehq.com)
+01. [Arkire](https://arkirehq.com) — Internal software for turning company activity into usable content. [Visit →](https://arkirehq.com)
 
 02. [Interview transcription pipeline](https://github.com/Lordphoenix1223/transcription-organizer-pipeline) — Local-first recordings become transcripts, extracted signals, and Notion-ready rows. [View repo →](https://github.com/Lordphoenix1223/transcription-organizer-pipeline)
 
-03. [Spider-Man web shooter](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping) — OpenSCAD mechanism studies with fit checks, renders, and physical iteration. [View repo →](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping)
+03. [Mechanical prototyping](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping) — OpenSCAD mechanism studies with fit checks, renders, and physical iteration. [View repo →](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping)
 
 04. [STL Inspector CLI](https://github.com/Lordphoenix1223/stl-inspector-cli) — Fast geometry reports for checking exported models before printing. [View repo →](https://github.com/Lordphoenix1223/stl-inspector-cli)
 
