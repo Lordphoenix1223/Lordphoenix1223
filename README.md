@@ -5,3 +5,32 @@
     <img alt="Artin Kennedy's GitHub profile: terminal-style Greninja artwork beside a concise technical profile" src="./light_mode.svg">
   </picture>
 </a>
+
+# Artin Kennedy
+
+Founder of [Arkire](https://arkirehq.com).
+
+Building AI workflows, practical software, and strange physical prototypes.
+
+I turn strange ideas into things I can actually test.
+
+> Make it real. Test it. Then make it better.
+
+## Building now
+
+01. [Arkire](https://arkirehq.com) — AI workflows for turning company activity into usable content. [Visit →](https://arkirehq.com)
+
+02. [Interview transcription pipeline](https://github.com/Lordphoenix1223/transcription-organizer-pipeline) — Local-first recordings become transcripts, extracted signals, and Notion-ready rows. [View repo →](https://github.com/Lordphoenix1223/transcription-organizer-pipeline)
+
+03. [Spider-Man web shooter](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping) — OpenSCAD mechanism studies with fit checks, renders, and physical iteration. [View repo →](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping)
+
+04. [STL Inspector CLI](https://github.com/Lordphoenix1223/stl-inspector-cli) — Fast geometry reports for checking exported models before printing. [View repo →](https://github.com/Lordphoenix1223/stl-inspector-cli)
+
+## Start here
+
+```bash
+git clone https://github.com/Lordphoenix1223/stl-inspector-cli
+cd stl-inspector-cli
+python -m pip install -e .
+stl-inspector path/to/model.stl
+```
