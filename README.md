@@ -14,8 +14,6 @@ Building software, internal systems, web apps, and physical prototypes.
 
 I build internal systems, web apps & physical stuff :)
 
-> Make it real. Test it. Then make it better.
-
 ## What I'm building
 
 01. [Arkire](https://arkirehq.com) — Internal software for turning company activity into usable content. [Visit →](https://arkirehq.com)
