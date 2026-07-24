@@ -6,7 +6,7 @@
   <rect x="18" y="18" width="949" height="494" rx="12" fill="#161b22" stroke="#30363d"/>
   <defs><clipPath id="art-clip"><rect x="18" y="18" width="388" height="494" rx="12"/></clipPath></defs>
   <line x1="418" y1="42" x2="418" y2="488" stroke="#30363d" stroke-opacity=".55"/>
-  <g transform="translate(34,0)" clip-path="url(#art-clip)"><text x="28" y="36" class="art" xml:space="preserve">
+  <g transform="translate(48,0)" clip-path="url(#art-clip)"><text x="28" y="36" class="art" xml:space="preserve">
 <tspan x="38" y="36.0"><tspan class="base">                               :                          </tspan></tspan>
 <tspan x="38" y="46.2"><tspan class="base">                            ·**                           </tspan></tspan>
 <tspan x="38" y="56.4"><tspan class="base">                         .</tspan><tspan class="yellow">:+#</tspan><tspan class="base">*.                           </tspan></tspan>
@@ -60,8 +60,8 @@
 <text x="0" y="48" class="muted">WELCOME // ARTIN KENNEDY</text>
 <text x="0" y="70" class="muted">--------------------------------------------</text>
 <text x="0" y="111" class="base">Founder of Arkire.</text>
-<text x="0" y="133" class="value">Building software, internal systems, web apps</text>
-<text x="0" y="155" class="value">and physical prototypes.</text>
+<text x="0" y="133" class="value">Software ↔ physical systems</text>
+<text x="0" y="155" class="value">useful tools / strange prototypes</text>
 <text x="0" y="189" class="key">BUILDING NOW</text>
 <text x="0" y="217" class="value">01  Arkire</text>
 <text x="0" y="239" class="value">02  Internal systems &amp; web apps</text>

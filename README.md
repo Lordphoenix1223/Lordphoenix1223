@@ -10,7 +10,7 @@
 
 Founder of [Arkire](https://arkirehq.com).
 
-Building software, internal systems, web apps, and physical prototypes.
+Most of my work lives between software and the physical world.
 
 I build internal systems, web apps & physical stuff :)
 
@@ -18,7 +18,7 @@ I build internal systems, web apps & physical stuff :)
 
 01. [Arkire](https://arkirehq.com) — Internal software for turning company activity into usable content. [Visit →](https://arkirehq.com)
 
-02. [Interview transcription pipeline](https://github.com/Lordphoenix1223/transcription-organizer-pipeline) — Local-first recordings become transcripts, extracted signals, and Notion-ready rows. [View repo →](https://github.com/Lordphoenix1223/transcription-organizer-pipeline)
+02. [Interview transcription pipeline](https://github.com/Lordphoenix1223/transcription-organizer-pipeline) — Recordings become structured transcripts and Notion rows. [View repo →](https://github.com/Lordphoenix1223/transcription-organizer-pipeline)
 
 03. [Mechanical prototyping](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping) — OpenSCAD mechanism studies with fit checks, renders, and physical iteration. [View repo →](https://github.com/Lordphoenix1223/openscad-mechanical-prototyping)
 
