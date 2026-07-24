@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="985" height="530" viewBox="0 0 985 530">
   <title id="title">Artin Kennedy terminal profile</title>
   <desc id="desc">Detailed Greninja character art rendered in terminal glyphs beside a concise profile of Artin Kennedy's work.</desc>
-  <style>text { font-family: Consolas, Monaco, monospace; font-size: 13.5px; white-space: pre; } .art { font-size: 8.5px; letter-spacing: .4px; paint-order: stroke fill; stroke: #0d1117; stroke-width: .65px; } .base { fill: #24292f; } .muted { fill: #57606a; } .key { fill: #bc4c00; } .value { fill: #0969da; } .blue { fill: #0969da; } .pink { fill: #bf3989; } .yellow { fill: #9a6700; } .art .base { fill: #f0f6fc; } .art .muted { fill: #8b949e; } .art .key { fill: #f0d56e; } .art .value, .art .blue { fill: #79c0ff; } .art .pink { fill: #ff9bce; } .art .yellow { fill: #f0d56e; }</style>
+  <style>text { font-family: Consolas, Monaco, monospace; font-size: 13.5px; white-space: pre; } .art { font-size: 8.5px; letter-spacing: .4px; } .base { fill: #24292f; } .muted { fill: #57606a; } .key { fill: #bc4c00; } .value { fill: #0969da; } .blue { fill: #0969da; } .pink { fill: #bf3989; } .yellow { fill: #9a6700; }</style>
   <rect width="985" height="530" rx="16" fill="#ffffff"/>
   <rect x="18" y="18" width="949" height="494" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="28" y="28" width="370" height="474" rx="10" fill="#20252b" stroke="#57606a" stroke-width="2"/>
   <defs><clipPath id="art-clip"><rect x="18" y="18" width="388" height="494" rx="12"/></clipPath></defs>
   <line x1="418" y1="42" x2="418" y2="488" stroke="#d0d7de" stroke-opacity=".8"/>
   <g transform="translate(48,0)" clip-path="url(#art-clip)"><text x="28" y="36" class="art" xml:space="preserve">
