@@ -30,3 +30,9 @@ cd stl-inspector-cli
 python -m pip install -e .
 stl-inspector path/to/model.stl
 ```
+
+## Next
+
+- Publish a small, redacted Arkire workflow demo.
+- Add deterministic sample fixtures to the transcription pipeline.
+- Document fit and test results for the current mechanical prototype.
