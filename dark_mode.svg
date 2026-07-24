@@ -59,12 +59,14 @@
   <g transform="translate(440,0)">
 <text x="0" y="48" class="muted">WELCOME // ARTIN KENNEDY</text>
 <text x="0" y="70" class="muted">--------------------------------------------</text>
-<a href="https://arkirehq.com"><text x="0" y="111" class="base">Founder of Arkire.</text></a>
-<text x="0" y="139" class="value">Building software, internal systems, web apps</text>
-<text x="0" y="163" class="value">and physical prototypes.</text>
-<text x="0" y="195" class="base">Arkire is a Founder Institute + 16VC fellow;</text>
-<text x="0" y="219" class="base">currently piloting with startups.</text>
-<text x="0" y="251" class="base">I make music, too.</text>
-<a href="https://www.linkedin.com/in/artin-kennedy/"><text x="0" y="279" class="blue">Say hi on LinkedIn -&gt;</text></a>
+<a href="https://arkirehq.com"><text x="0" y="111" class="base">Founder @ Arkire</text></a>
+<text x="0" y="143" class="value">I build internal systems, web apps</text>
+<text x="0" y="167" class="value">&amp; physical stuff :)</text>
+<text x="0" y="203" class="base">Some favorite public builds:</text>
+<a href="https://github.com/Lordphoenix1223/openscad-mechanical-prototyping"><text x="0" y="233" class="value">Spider-Man web shooter</text></a>
+<text x="0" y="257" class="blue">physical prototyping, fit tests, mechanism design</text>
+<a href="https://github.com/Lordphoenix1223/transcription-organizer-pipeline"><text x="0" y="291" class="value">Transcript organizer</text></a>
+<text x="0" y="315" class="blue">recordings -&gt; transcripts -&gt; Notion pages</text>
+<text x="0" y="351" class="base">More experiments coming :)</text>
   </g>
 </svg>

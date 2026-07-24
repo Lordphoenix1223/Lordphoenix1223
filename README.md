@@ -6,12 +6,6 @@
   </picture>
 </a>
 
-# Artin Kennedy
-
-I build internal systems, web apps & physical stuff :)
-
-The common thread is turning rough ideas into something usable, testable, and easy to inspect.
-
 ## What I'm building
 
 01. [Arkire](https://arkirehq.com) — Internal software for turning company activity into usable content. [Visit →](https://arkirehq.com)
