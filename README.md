@@ -25,7 +25,7 @@ python -m pip install -e .
 stl-inspector path/to/model.stl
 ```
 
-## Next
+## Coming soon
 
 - Publish a small, redacted Arkire workflow demo.
 - Add deterministic sample fixtures to the transcription pipeline.
